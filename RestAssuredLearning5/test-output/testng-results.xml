@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2153" started-at="2018-09-10T11:23:50Z" finished-at="2018-09-10T11:23:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2153" started-at="2018-09-10T11:23:50Z" finished-at="2018-09-10T11:23:52Z">
+      <class name="com.psl.demo.SimpleClass">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.psl.demo.SimpleClass@6eebc39e]" name="before" is-config="true" duration-ms="316" started-at="2018-09-10T11:23:50Z" finished-at="2018-09-10T11:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="test25()[pri:0, instance:com.psl.demo.SimpleClass@6eebc39e]" name="test25" duration-ms="1819" started-at="2018-09-10T11:23:50Z" finished-at="2018-09-10T11:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test25 -->
+      </class> <!-- com.psl.demo.SimpleClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
